@@ -1,2 +1,2 @@
 # School_District_Analysis
-Python and Panadas analysis of School District data
+Python, Panadas, and Jupyter Notebook analysis of School District data
